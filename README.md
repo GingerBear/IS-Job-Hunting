@@ -3,7 +3,7 @@ IS-Job-Hunting
 
 给在美国找工作的IS难兄难弟（难姐难妹）们提供一个交流的地方，在这里分享一些**找工作的信息**和**面试题**。
 
-我们用Github的Issue作为我们分享信息的地方，issue实际上就是一个多功能的论坛，这里可以发帖，回帖，email订阅，AT别人，代码高亮，支持markdown。
+我们用[Github的Issue](https://github.com/GingerBear/IS-Job-Hunting/issues?state=open)作为我们分享信息的地方，issue实际上就是一个多功能的论坛，这里可以发帖，回帖，email订阅，AT别人，代码高亮，支持markdown。
 
 参与进来的方法很简单，**注册一个账号**就可以进来发帖回帖了，想收到邮件提醒的话，就点一下右上角的watch。
 
